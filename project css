@@ -1,0 +1,33 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="utf-8">
+<title>Coursera is cool!</title>
+<style>
+
+.highlight{
+	background-color: pink;
+	text-align: center;
+
+}
+p.highlight{
+
+	font-style: italic;
+}
+
+.highlight.mainpoint{
+	background-color: red;
+
+	color: yellow;
+}
+</style>
+</head>
+<body>
+<h1 class="highlight ">ADVENTURE IS UNUSUAL EXPERIENCE</h1> 
+<p>An adventure is an exciting or unusual experience. It may also be a bold, usually risky undertaking, with an uncertain outcome.[1] Adventures may be activities with some potential for physical danger such as traveling, exploring, skydiving, mountain climbing, scuba diving, river rafting or participating in extreme sports. The term also broadly refers to any enterprise that is potentially fraught with physical, financial or psychological risk, such as a business venture, or other major life undertakings.<p>
+<p class="highlight">it may be bold and risky</p>
+<div class="mainPoint highlight"> this is the mainpoint of the entire artilce</div>
+</body>
+
+
+
